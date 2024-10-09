@@ -31,12 +31,6 @@ public class Person {
 }
 
 
-![](CodePerson.Java.png).
-
-![](CodeMain.Java2.png).
-
-![](AtributClass.png).
-
 # Main.Java
 
 import com.mycompany.classobject.Person;
@@ -55,6 +49,15 @@ public class Main {
         riko.tampilkanInfo();
     }
 }
+
+
+![](CodePerson.Java.png).
+
+![](CodeMain.Java2.png).
+
+![](AtributClass.png).
+
+
 
 # Latihan3
 # AkunBank.Java
@@ -120,6 +123,8 @@ public class Main {
         akunSaya.cekSaldo();
     }
 }
+
+![](CodeBankApp.Java.png).
 
 ![](CodeMain.Java3.png).
 
