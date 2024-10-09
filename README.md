@@ -1,6 +1,9 @@
 # Class-Object.Java
 # Latihan1
-![](DiagramPerson).Drawio
+
+![](Diagram.Person.drawio).
+
+
 # Latihan2
 # Person.Java
 package com.mycompany.classobject;
