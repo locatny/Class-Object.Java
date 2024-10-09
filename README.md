@@ -28,11 +28,11 @@ public class Person {
 }
 
 
-![](CodePerson.Java).png
+![](CodePerson.Java.png).
 
-![](CodeMain.Java2).png
+![](CodeMain.Java2.png).
 
-![](AtributClass).png
+![](AtributClass.png).
 
 # Main.Java
 
