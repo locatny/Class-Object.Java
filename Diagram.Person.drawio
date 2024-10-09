@@ -1,0 +1,124 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="Av7zBsB9UQiDPN6zRXcK">
+    <mxGraphModel dx="998" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WIrva2gLRy929x_mKBgo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.525;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-42" target="WIrva2gLRy929x_mKBgo-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-37" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Umur&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-5" value="Laki-laki" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-30" target="WIrva2gLRy929x_mKBgo-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-30" value="String" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-29" value="String" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-27" value="String" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-3" value="Jenis Kelamin" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-8" target="WIrva2gLRy929x_mKBgo-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-8" value="Person" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#1A1A1A;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-10" value="Nama" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-21" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Tampilkan Info&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="910" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-23" value="Umur" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-1" target="WIrva2gLRy929x_mKBgo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-1" target="WIrva2gLRy929x_mKBgo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-1" value="Nama" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-31" value="Riko" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-32" value="Anton" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-33" target="WIrva2gLRy929x_mKBgo-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-33" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Jenis Kelamin&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-34" value="Nama" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-35" value="Nama" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-22" value="35" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-39" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Umur&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="90" y="600" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-40" value="30" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="90" y="640" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-42" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Informasi&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-43" value="Anton" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-44" value="&lt;font face=&quot;Tahoma&quot;&gt;Riko&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="760" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.653;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;horizontal=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-5" target="WIrva2gLRy929x_mKBgo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.34;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-5" target="WIrva2gLRy929x_mKBgo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.567;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-8" target="WIrva2gLRy929x_mKBgo-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-42" target="WIrva2gLRy929x_mKBgo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIrva2gLRy929x_mKBgo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.3;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="WIrva2gLRy929x_mKBgo-42" target="WIrva2gLRy929x_mKBgo-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
