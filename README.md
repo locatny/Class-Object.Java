@@ -1,6 +1,6 @@
 # Class-Object.Java
 # Latihan1
-![](DiagramPerson,Drawio).png
+![](DiagramPerson).Drawio
 # Latihan2
 # Person.Java
 package com.mycompany.classobject;
@@ -26,6 +26,13 @@ public class Person {
         System.out.println("Umur: " + this.umur);
     }
 }
+
+
+![](CodePerson.Java).png
+
+![](CodeMain.Java2).png
+
+![](AtributClass).png
 
 # Main.Java
 
