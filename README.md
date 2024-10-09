@@ -121,3 +121,21 @@ public class Main {
     }
 }
 
+
+![](KontruktorSaldo.png)
+
+![](Memanggil.Method.png).
+
+![](Method.AmbilUang.png).
+
+![](Method.CekSaldo.png).
+
+![](Method.Main.png).
+
+![](Method.MenyimpanUang.png).
+
+![](Method.TampilkanInfo.png).
+
+![](MethodTampilkanInfo.png).
+
+![](Object.AkunBank.png).
