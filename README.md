@@ -1,6 +1,8 @@
 # Class-Object.Java
 # Latihan1
 
+![](Diagram3.png).
+
 ![](Diagram.Person.drawio).
 
 
