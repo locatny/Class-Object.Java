@@ -145,3 +145,6 @@ public class Main {
 ![](MethodTampilkanInfo.png).
 
 ![](Object.AkunBank.png).
+
+![](HasilOutput3.png).
+
