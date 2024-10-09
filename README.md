@@ -1,6 +1,6 @@
 # Class-Object.Java
 # Latihan1
-
+![](DiagramPerson,Drawio).png
 # Latihan2
 # Person.Java
 package com.mycompany.classobject;
